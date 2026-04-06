@@ -209,6 +209,8 @@ __marimo__/
 data/*.csv
 data/*.json
 data/*.zip
+data/*.xlsx
+data/*.geojson
 
 # Exports Python temporaires
 .ipynb_checkpoints/
